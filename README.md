@@ -10,5 +10,3 @@ B.) Types Of Algorithms -
   .-> Unsupervised Algorithms
   .-> Reinforcement
   
-1. Auto correct
-2. Colour Recognition
